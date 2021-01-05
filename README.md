@@ -11,7 +11,9 @@ NeuralProphet是一个Facebook Prophet和AR-Net的启发，在PyTorch上构建�
 
 
 
-**本文档是对其官方文档的中文翻译。**水平有限，如有翻译不当之处敬请指正！
+本文档是对其官方文档的中文翻译。水平有限，如有翻译不当之处敬请指正！
+
+建议在**语雀**上阅读，效果好。
 
 本文档在语雀地址：https://www.yuque.com/alipayqgthu1irbf/neuralprophet
 
